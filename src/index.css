@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.search-bar input {
+  padding: 10px;
+  margin: 10px;
+  width: 200px;
+  font-size: 14px;
+}
+
+.region-dropdown {
+  padding: 10px;
+  font-size: 14px;
+  margin: 10px;
+}
+
+.country-card {
+  display: inline-block;
+  width: 200px;
+  margin: 10px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.country-flag {
+  width: 100%;
+  height: auto;
+}
+
+.details-link {
+  margin-top: 10px;
+  text-decoration: none;
+  color: #0066cc;
+}
+
+.country-page {
+  padding: 20px;
+}
+
+.country-page img {
+  width: 150px;
+  height: auto;
+}
+
+.country-page p {
+  font-size: 16px;
+  margin: 8px 0;
+}
